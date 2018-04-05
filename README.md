@@ -6,9 +6,9 @@ Two things must be fed to the program in order for it to be ran correctly.
 1. A file containing a matrix space that you want. It must be formated in typical matrix notation. 
 For example:
 
-12 5 3 10
-3 5 5 1
-8 2 3 1
+12 5 3 10(newline)
+3 5 5 1(newline)
+8 2 3 1(lastline)
 
 This dimension is 3x4. 
 
