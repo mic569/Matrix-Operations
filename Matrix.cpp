@@ -22,8 +22,8 @@ int main()
 {
     Matrix mata, matb, matc;
     ifstream inputf, inputsec;
-    inputf.open("e:\\ColtoMult1.txt");
-    inputsec.open("e:\\ColtoMult2.txt");
+    inputf.open("ColtoMult1.txt");
+    inputsec.open("ColtoMult2.txt");
     if (inputf.fail() || inputsec.fail())
     {
         cout << "File is missing\n";
